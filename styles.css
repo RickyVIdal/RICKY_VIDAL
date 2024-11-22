@@ -1,0 +1,27 @@
+body{
+color:white;
+background: #0f528a;
+margin: 15px;
+}
+
+header{
+border-bottom: solid 2px white;
+margin: 10px;
+font-size: 25px;
+}
+
+img {
+    height: 200px;
+  }
+
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
